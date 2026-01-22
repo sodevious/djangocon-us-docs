@@ -1,6 +1,6 @@
 # DjangoCon US Docs
 
-Want to help run DjangoCon US? Say [hello!](mailto:hello@djangocon.us)
+Want to help us organize DjangoCon US? Say [hello!](mailto:hello@djangocon.us)
 
 We'll chat with you about how you'd like to contribute, then add you to our mailing list, Slack workspace, GitHub, and all the places.
 
